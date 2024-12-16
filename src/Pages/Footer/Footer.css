@@ -1,0 +1,23 @@
+footer ul li {
+    margin-bottom: 0.5rem;
+    cursor: pointer;
+    font-size: 0.95rem;
+  }
+  
+  footer .btn-outline-primary {
+    font-size: 1rem;
+  }
+  
+  .bi {
+    color: #888;
+    cursor: pointer;
+  }
+  
+  .bi:hover {
+    color: #007bff;
+  }
+  
+  .text-muted {
+    font-size: 0.9rem;
+  }
+  
